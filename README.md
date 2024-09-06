@@ -1,1 +1,0 @@
-# hanmash.github.io
