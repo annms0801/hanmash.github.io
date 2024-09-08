@@ -37,11 +37,11 @@
 
     <h3>Mashup 4</h3>
     <audio controls>
-        <source src="mash4.wav" type="audio/mpeg">
+        <source src="mash5.wav" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 
-    <h3>Mashup 5</h3>
+    <h3>Original</h3>
     <audio controls>
         <source src="mash5.wav" type="audio/mpeg">
         Your browser does not support the audio element.
