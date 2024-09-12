@@ -11,38 +11,6 @@
 
     <h3>Original</h3>
     <audio controls>
-        <source src="audio1.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-
-
-    <h3>Mashup 1</h3>
-    <audio controls>
-        <source src="mash1.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-
-
-    <h3>Mashup 2</h3>
-    <audio controls>
-        <source src="mash2.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-    
-    <h3>Mashup 3</h3>
-    <audio controls>
-        <source src="mash3.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-
-    <h3>Mashup 4</h3>
-    <audio controls>
-        <source src="mash5.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-
-    <h3>Original</h3>
-    <audio controls>
         <source src="original_1.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
@@ -100,6 +68,65 @@
     <h3>Mashup 4</h3>
     <audio controls>
         <source src="mashup_2_4.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+        <h3>Original</h3>
+    <audio controls>
+        <source src="audio1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+
+    <h3>Mashup 1</h3>
+    <audio controls>
+        <source src="mash1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+
+    <h3>Mashup 2</h3>
+    <audio controls>
+        <source src="mash2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <h3>Mashup 3</h3>
+    <audio controls>
+        <source src="mash3.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+    <h3>Mashup 4</h3>
+    <audio controls>
+        <source src="mash5.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+    <h1>Beat Pattern</h1>
+
+    <h3>Beat Extracted, As Basic Loop Anchor Points for Music</h3>
+    <audio controls>
+        <source src="beat_1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+
+    <h3>Mashup 2</h3>
+    <audio controls>
+        <source src="beat_2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <h3>Mashup 3</h3>
+    <audio controls>
+        <source src="beat_3.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+    <h3>Mashup 4</h3>
+    <audio controls>
+        <source src="beat_4.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
 </body>
